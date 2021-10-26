@@ -1,0 +1,38 @@
+<annotation>
+	<folder>at</folder>
+	<filename>814.jpg</filename>
+	<path>C:\Users\Çağla	Sevindik\Desktop\at\814.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>375</width>
+		<height>375</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>14</xmin>
+			<ymin>22</ymin>
+			<xmax>338</xmax>
+			<ymax>360</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>cat</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>98</ymin>
+			<xmax>196</xmax>
+			<ymax>361</ymax>
+		</bndbox>
+	</object>
+</annotation>

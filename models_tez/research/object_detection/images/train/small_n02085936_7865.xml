@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Train_Dog</folder>
+	<filename>small_n02085936_7865.jpg</filename>
+	<path>C:\Users\Çağla	Sevindik\Desktop\olanlar\Train_Dog\small_n02085936_7865.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>375</width>
+		<height>375</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>dog</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>180</xmin>
+			<ymin>24</ymin>
+			<xmax>321</xmax>
+			<ymax>277</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>dog</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>78</xmin>
+			<ymin>63</ymin>
+			<xmax>206</xmax>
+			<ymax>331</ymax>
+		</bndbox>
+	</object>
+</annotation>

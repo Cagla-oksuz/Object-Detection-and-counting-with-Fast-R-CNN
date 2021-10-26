@@ -1,0 +1,26 @@
+<annotation>
+	<folder>at</folder>
+	<filename>849.jpg</filename>
+	<path>C:\Users\Çağla	Sevindik\Desktop\at\849.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>375</width>
+		<height>375</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cat</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>16</xmin>
+			<ymin>1</ymin>
+			<xmax>365</xmax>
+			<ymax>363</ymax>
+		</bndbox>
+	</object>
+</annotation>

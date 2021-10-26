@@ -1,0 +1,26 @@
+<annotation>
+	<folder>car2000</folder>
+	<filename>car2946.jpg</filename>
+	<path>C:\Users\Çağla	Sevindik\Desktop\car2000\car2946.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>375</width>
+		<height>375</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>car</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>56</xmin>
+			<ymin>166</ymin>
+			<xmax>354</xmax>
+			<ymax>301</ymax>
+		</bndbox>
+	</object>
+</annotation>

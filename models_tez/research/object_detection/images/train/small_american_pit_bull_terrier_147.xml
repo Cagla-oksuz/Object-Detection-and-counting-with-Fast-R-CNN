@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Train_Dog</folder>
+	<filename>small_american_pit_bull_terrier_147.jpg</filename>
+	<path>C:\Users\Çağla	Sevindik\Desktop\olanlar\Train_Dog\small_american_pit_bull_terrier_147.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>375</width>
+		<height>375</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>dog</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>41</xmin>
+			<ymin>23</ymin>
+			<xmax>306</xmax>
+			<ymax>307</ymax>
+		</bndbox>
+	</object>
+</annotation>

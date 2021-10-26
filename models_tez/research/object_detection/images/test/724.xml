@@ -1,0 +1,38 @@
+<annotation>
+	<folder>at</folder>
+	<filename>724.jpeg</filename>
+	<path>C:\Users\Çağla	Sevindik\Desktop\at\724.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>375</width>
+		<height>375</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>14</xmin>
+			<ymin>88</ymin>
+			<xmax>267</xmax>
+			<ymax>345</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>cat</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>15</ymin>
+			<xmax>365</xmax>
+			<ymax>341</ymax>
+		</bndbox>
+	</object>
+</annotation>

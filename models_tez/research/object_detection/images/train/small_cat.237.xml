@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Train_Cat</folder>
+	<filename>small_cat.237.jpg</filename>
+	<path>C:\Users\Çağla	Sevindik\Desktop\Train_Cat\small_cat.237.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>375</width>
+		<height>375</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>94</xmin>
+			<ymin>81</ymin>
+			<xmax>361</xmax>
+			<ymax>369</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>cat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>11</xmin>
+			<ymin>38</ymin>
+			<xmax>151</xmax>
+			<ymax>367</ymax>
+		</bndbox>
+	</object>
+</annotation>

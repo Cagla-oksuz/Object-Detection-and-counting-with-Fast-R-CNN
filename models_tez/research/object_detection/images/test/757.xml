@@ -1,0 +1,38 @@
+<annotation>
+	<folder>at</folder>
+	<filename>757.jpg</filename>
+	<path>C:\Users\Çağla	Sevindik\Desktop\at\757.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>375</width>
+		<height>375</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>202</xmin>
+			<ymin>177</ymin>
+			<xmax>329</xmax>
+			<ymax>369</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>cat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>38</xmin>
+			<ymin>129</ymin>
+			<xmax>203</xmax>
+			<ymax>371</ymax>
+		</bndbox>
+	</object>
+</annotation>

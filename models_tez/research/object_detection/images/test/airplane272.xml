@@ -1,0 +1,38 @@
+<annotation>
+	<folder>airplane</folder>
+	<filename>airplane272.jpg</filename>
+	<path>C:\Users\Çağla	Sevindik\Desktop\airplane\airplane272.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>375</width>
+		<height>375</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>airplane</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>267</xmin>
+			<ymin>115</ymin>
+			<xmax>366</xmax>
+			<ymax>173</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>airplane</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>4</xmin>
+			<ymin>98</ymin>
+			<xmax>363</xmax>
+			<ymax>287</ymax>
+		</bndbox>
+	</object>
+</annotation>

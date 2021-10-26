@@ -1,0 +1,26 @@
+<annotation>
+	<folder>at</folder>
+	<filename>y19.jpg</filename>
+	<path>C:\Users\Çağla	Sevindik\Desktop\at\y19.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>375</width>
+		<height>375</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>36</xmin>
+			<ymin>83</ymin>
+			<xmax>358</xmax>
+			<ymax>369</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>dog_1000</folder>
+	<filename>dog2355.JPEG</filename>
+	<path>C:\Users\Çağla	Sevindik\Desktop\dog_1000\dog2355.JPEG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>375</width>
+		<height>375</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>dog</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>100</xmin>
+			<ymin>106</ymin>
+			<xmax>316</xmax>
+			<ymax>371</ymax>
+		</bndbox>
+	</object>
+</annotation>

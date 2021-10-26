@@ -1,0 +1,38 @@
+<annotation>
+	<folder>cat_1500</folder>
+	<filename>cat1829.jpg</filename>
+	<path>C:\Users\Çağla	Sevindik\Desktop\cat_1500\cat1829.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>375</width>
+		<height>375</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>19</xmin>
+			<ymin>27</ymin>
+			<xmax>323</xmax>
+			<ymax>342</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>cat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>3</xmin>
+			<ymin>67</ymin>
+			<xmax>77</xmax>
+			<ymax>326</ymax>
+		</bndbox>
+	</object>
+</annotation>

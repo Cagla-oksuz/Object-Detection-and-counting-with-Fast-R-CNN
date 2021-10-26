@@ -1,0 +1,38 @@
+<annotation>
+	<folder>dog_2000</folder>
+	<filename>dog3699.jpeg</filename>
+	<path>C:\Users\Çağla	Sevindik\Desktop\dog_2000\dog3699.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>375</width>
+		<height>375</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>dog</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>176</xmin>
+			<ymin>2</ymin>
+			<xmax>373</xmax>
+			<ymax>372</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>dog</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2</xmin>
+			<ymin>1</ymin>
+			<xmax>201</xmax>
+			<ymax>371</ymax>
+		</bndbox>
+	</object>
+</annotation>

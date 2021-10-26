@@ -1,0 +1,38 @@
+<annotation>
+	<folder>car2500</folder>
+	<filename>car3507.jpg</filename>
+	<path>C:\Users\Çağla	Sevindik\Desktop\car2500\car3507.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>375</width>
+		<height>375</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>car</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>22</xmin>
+			<ymin>63</ymin>
+			<xmax>324</xmax>
+			<ymax>369</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>car</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>85</ymin>
+			<xmax>34</xmax>
+			<ymax>158</ymax>
+		</bndbox>
+	</object>
+</annotation>

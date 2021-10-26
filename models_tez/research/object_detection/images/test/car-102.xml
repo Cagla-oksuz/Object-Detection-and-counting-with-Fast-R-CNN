@@ -1,0 +1,38 @@
+<annotation>
+	<folder>car_500</folder>
+	<filename>car-102.jpg</filename>
+	<path>C:\Users\Çağla	Sevindik\Desktop\car_500\car-102.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>375</width>
+		<height>375</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>car</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>25</xmin>
+			<ymin>39</ymin>
+			<xmax>361</xmax>
+			<ymax>293</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>car</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>223</xmin>
+			<ymin>52</ymin>
+			<xmax>253</xmax>
+			<ymax>77</ymax>
+		</bndbox>
+	</object>
+</annotation>

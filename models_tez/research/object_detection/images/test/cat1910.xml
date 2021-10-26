@@ -1,0 +1,26 @@
+<annotation>
+	<folder>cat_1500</folder>
+	<filename>cat1910.jpg</filename>
+	<path>C:\Users\Çağla	Sevindik\Desktop\cat_1500\cat1910.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>375</width>
+		<height>375</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>83</xmin>
+			<ymin>6</ymin>
+			<xmax>246</xmax>
+			<ymax>373</ymax>
+		</bndbox>
+	</object>
+</annotation>
